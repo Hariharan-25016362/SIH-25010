@@ -112,9 +112,10 @@ To ensure smooth adoption and usability, the following challenges have been iden
 - Language barriers: Integrate voice-based interaction and support for regional languages.  
 - Hardware cost: Make sensor integration optional so farmers can use the system without additional devices.  
 - Trust in technology: Conduct community demonstrations and share farmer testimonials to build confidence.
+```
 ![Feasibility and Viability](F1.jpg)
 ![Feasibility and Viability](F2.jpg)
-```
+
 
 
 
